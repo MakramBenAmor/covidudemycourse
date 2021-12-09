@@ -1,0 +1,9 @@
+{
+	"name": "copy-activity",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a4df9c9-6757-481c-a03a-66c94534e00d",
+		"tenantId": "d8704f83-7cc6-4c1d-96dd-306875b35df3"
+	}
+}
